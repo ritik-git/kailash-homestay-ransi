@@ -13,7 +13,7 @@ export const siteConfig = {
     "A family-run homestay in Ransi Village, Rudraprayag — the last road-head village on the way to Madmaheshwar Temple in the Garhwal Himalayas.",
 
   /** Public URL after deployment (no trailing slash). Used for canonical, OG and sitemap. */
-  url: "https://YOUR-GITHUB-USERNAME.github.io/kailash-homestay-ransi",
+  url: "https://ritik-git.github.io/kailash-homestay-ransi",
 
   seo: {
     title: "Hotel in Madmaheshwar | Kailash Homestay in Ransi, Uttarakhand",
@@ -37,9 +37,9 @@ export const siteConfig = {
   },
 
   contact: {
-    phone: "", // "[PHONE NUMBER]"  e.g. "+91 98XXXXXXXX"
-    whatsapp: "", // "[WHATSAPP NUMBER]" digits only with country code, e.g. "9198XXXXXXXX"
-    email: "", // "[EMAIL]"
+    phone: "" as string, // "[PHONE NUMBER]"  e.g. "+91 98XXXXXXXX"
+    whatsapp: "" as string, // "[WHATSAPP NUMBER]" digits only with country code, e.g. "9198XXXXXXXX"
+    email: "" as string, // "[EMAIL]"
     whatsappMessage: "Namaste! I'd like to check availability at Kailash Homestay, Ransi.",
   },
 

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/kailash-homestay-ransi/sitemap.xml
+Sitemap: https://ritik-git.github.io/kailash-homestay-ransi/sitemap.xml
